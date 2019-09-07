@@ -1,0 +1,1 @@
+Search "~~[A-Za-z-]*~~" in package.json and replace them.
